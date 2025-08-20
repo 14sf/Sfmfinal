@@ -1,0 +1,1 @@
+console.log('sfm_cash script loaded');
